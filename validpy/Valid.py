@@ -1,4 +1,4 @@
-class Validate:
+class Validator:
     def isEven(self, num):
         if num % 2 == 0:
             return True
