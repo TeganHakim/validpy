@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: validpy
-Version: 0.0.1
+Version: 0.0.2
 Summary: A simple validation library
-Home-page: UNKNOWN
+Home-page: https://github.com/TeganHakim/validpy
 Author: Tegan Hakim
 Author-email: tegan.hakim@gmail.com
 License: MIT

@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="validpy",
-    version="0.1.1",
+    version="0.0.2",
     author="Tegan Hakim",
     author_email="tegan.hakim@gmail.com",
     license="MIT",
