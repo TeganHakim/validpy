@@ -1,4 +1,4 @@
-#!t:\coding\python\python module\env\scripts\python.exe
+#!t:\coding\python\validpy\env\scripts\python.exe
 
 # $Id: rst2latex.py 5905 2009-04-16 12:04:49Z milde $
 # Author: David Goodger <goodger@python.org>

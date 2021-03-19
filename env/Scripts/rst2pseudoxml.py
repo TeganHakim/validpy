@@ -1,4 +1,4 @@
-#!t:\coding\python\python module\env\scripts\python.exe
+#!t:\coding\python\validpy\env\scripts\python.exe
 
 # $Id: rst2pseudoxml.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: David Goodger <goodger@python.org>

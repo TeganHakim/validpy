@@ -1,4 +1,4 @@
-#!t:\coding\python\python module\env\scripts\python.exe
+#!t:\coding\python\validpy\env\scripts\python.exe
 # -*- coding: utf8 -*-
 # :Copyright: © 2015 Günter Milde.
 # :License: Released under the terms of the `2-Clause BSD license`_, in short:

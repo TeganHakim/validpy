@@ -5,14 +5,14 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="validpy",
-    version="0.0.1",
+    version="0.0.2",
     author="Tegan Hakim",
     author_email="tegan.hakim@gmail.com",
     license="MIT",
     description="A simple validation library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/TeganHakim/validpy",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

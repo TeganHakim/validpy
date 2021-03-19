@@ -1,4 +1,4 @@
-#!t:\coding\python\python module\env\scripts\python.exe
+#!t:\coding\python\validpy\env\scripts\python.exe
 
 # $Id: rst2xetex.py 7847 2015-03-17 17:30:47Z milde $
 # Author: Guenter Milde
